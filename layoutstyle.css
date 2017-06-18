@@ -1,0 +1,66 @@
+
+
+
+.header
+{
+height: 60px;
+width: 100%;
+border:2px solid coral;
+overflow: hidden;
+
+}
+
+/*for logo*/
+
+.logo
+{
+
+border: 2px solid black;
+width: 30%;
+float: left;
+padding-left: 79px;
+}
+/*for menue*/
+.menu{
+
+width: 60%;
+border: 2px solid blue;
+float: right;
+
+
+}
+.menu ul li{
+
+display: inline-block;
+padding-left: 20px;
+
+}
+
+.content
+{
+padding-top: 20px;
+width: 100%;
+border:  2px solid pink;
+
+}
+.news{
+
+border: 1px solid black;
+display: inline-block;
+width: 31%;
+padding:10px 10px 15px 5px;
+margin: 5px;
+}
+
+.news img{
+
+width: 100%;
+
+}
+.footer{
+
+width: 100%;
+height: 30%;
+border: 5px solid yellow; 
+
+}
